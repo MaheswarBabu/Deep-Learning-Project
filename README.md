@@ -19,5 +19,6 @@ Classification Report (precision, recall, F1)
 Dataset: CIFAR-10
 
 Output:
+
 ![Screenshot 2025-06-29 185914](https://github.com/user-attachments/assets/901b656a-5d96-40b1-ab82-061199461755)
 ![Screenshot 2025-06-29 185930](https://github.com/user-attachments/assets/69a19b75-3732-4070-b572-2bb75e370653)
